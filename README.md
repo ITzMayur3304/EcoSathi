@@ -93,9 +93,3 @@ ios/                        iOS application configuration
 web/                        Flutter web entry point
 test/                       Flutter tests
 ```
-
-## Contributing
-
-Small, focused contributions are welcome. Before opening a pull request,
-please run `flutter analyze` and `flutter test`, and make sure no local
-credentials or generated build files are included.
