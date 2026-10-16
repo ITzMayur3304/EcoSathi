@@ -1,6 +1,6 @@
-# ecosathi
+# EcoSathi
 
-A new Flutter project.
+An AI-powered waste governance platform.
 
 ## Local configuration
 
